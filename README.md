@@ -20,4 +20,4 @@ SomeSlime-MCU 顾名思义（指 Slime）是一个 SlimeVR 的硬件设计方案
 CERN Open Hardware Licence - weakly reciprocal - version 2
 
 文档许可: CC BY 4.0\
-Creative Commons - Attribution 4.0 International
+知识共享许可协议 - 署名 4.0 国际
