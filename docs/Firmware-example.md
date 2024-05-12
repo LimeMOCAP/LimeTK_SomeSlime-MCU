@@ -45,4 +45,4 @@ board = esp32-c3-devkitm-1
 或许是因为 ESP32 的所有引脚都可以是 GPIO 吧，连类似 D0 这种格式都不用了
 
 > 我也不知道 NULL 会对固件内部产生什么影响，但我总不能空着吧\
-> It's just worked.
+> It just works.
